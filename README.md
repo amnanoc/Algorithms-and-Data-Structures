@@ -2,7 +2,7 @@
 <!-- TITLE -->
 <br />
 <div align="center">
-  <h3 align="center">Programming 1</h3>
+  <h3 align="center">Algorithms and Data Structures</h3>
 </div>
 
 
