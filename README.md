@@ -15,7 +15,7 @@
 <!-- GETTING STARTED -->
 # Contents
 These are all the assignments I did for Algorithms and Data Structures class at KTH.
-The goal of the course is to provide a solid understanding of how to design and analyze the most important classes of algorithms. The course aims to provide students with skills that will allow them to independently construct computer programs that use time and memory efficiently. The students will learn to identify problems that are impractical to solve or even impossible to solve with conventional models.
+The goal of the course was to provide a solid understanding of how to design and analyze the most important classes of algorithms. 
 
 __Assignments__
 - [x] **Double linked lists**
